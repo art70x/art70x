@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-- 🔭 I’m currently working on [CSS3 Atlas](https://github.com/art70x/css-atlas)
+- 🔭 I’m currently working on [Plain2TeX](https://github.com/art70x/Plain2TeX)
 - 🌱 I’m currently learning Vue, Vite and Nuxt
 - 😄 Pronouns: he/him
 
