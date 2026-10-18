@@ -1,25 +1,103 @@
-# 💫 About Me:
+# art70x
 
-- 🔭 I’m currently working on [Plain2TeX](https://github.com/art70x/Plain2TeX)
-- 🌱 I’m currently learning Vue, Vite and Nuxt
-- 😄 Pronouns: he/him
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/art70x/assets/main/assets/icon-light.png"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/art70x/assets/main/assets/icon-dark.png"
+    />
+    <img
+      src="https://raw.githubusercontent.com/art70x/assets/main/assets/icon-light.png"
+      width="120"
+      alt="art70x logo"
+    />
+  </picture>
+</p>
 
-## 🌐 Socials:
+<h3 align="center">Create / Improve / Repeat</h3>
 
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/art70x) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/art70x) [![DevTo](https://img.shields.io/badge/Dev-000000.svg?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/art70x)
+<p align="center">
+  Frontend developer learning, building, and experimenting with the web.
+</p>
 
-# 💻 Tech Stack:
+<p align="center">
+  <a href="https://art70x.github.io/">Website</a> ·
+  <a href="https://github.com/art70x">GitHub</a> ·
+  <a href="https://x.com/art70x">X</a> ·
+  <a href="https://codepen.io/art70x">CodePen</a> ·
+  <a href="https://dev.to/art70x">DEV Community</a>
+</p>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
+---
 
-# 📊 GitHub Stats:
+## About Me
 
-[![GitHub Stats](https://helio-github-stats.vercel.app/api?username=art70x&custom_title=GitHub+Stats&theme=github_dark&&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=github&show_icons=false&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://github.com/art70x)
+- 🔭 Currently working on [Plain2TeX](https://github.com/art70x/Plain2TeX).
+- 🌱 Learning Vue, Vite, and Nuxt.
+- 💻 Interested in frontend development, web design, and developer tools.
+- 😄 Pronouns: he/him.
 
-![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=art70x&theme=github_dark&hide_border=false&border_radius=4.5&locale=pt&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&date_format=d+F%5B%2C+Y%5D)
+## Tech Stack
 
-[![Top Langs](https://helio-github-stats.vercel.app/api/top-langs?username=art70x&layout=donut&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Most%2520Used%2520Languages&hide=nix&langs_count=4)](https://github.com/art70x)
+**Languages**
 
-### ✍️ Random Dev Quote
+![HTML5](https://img.shields.io/badge/HTML5-0B0B0B?style=flat-square&logo=html5&logoColor=FFFFFF)
+![CSS3](https://img.shields.io/badge/CSS3-0B0B0B?style=flat-square&logo=css3&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B0B0B?style=flat-square&logo=javascript&logoColor=FFFFFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B0B0B?style=flat-square&logo=typescript&logoColor=FFFFFF)
+![Markdown](https://img.shields.io/badge/Markdown-0B0B0B?style=flat-square&logo=markdown&logoColor=FFFFFF)
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+**Frameworks and Styling**
+
+![Vue.js](https://img.shields.io/badge/Vue.js-0B0B0B?style=flat-square&logo=vuedotjs&logoColor=FFFFFF)
+![React](https://img.shields.io/badge/React-0B0B0B?style=flat-square&logo=react&logoColor=FFFFFF)
+![Nuxt](https://img.shields.io/badge/Nuxt-0B0B0B?style=flat-square&logo=nuxt&logoColor=FFFFFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0B0B0B?style=flat-square&logo=tailwindcss&logoColor=FFFFFF)
+
+**Tools**
+
+![Vite](https://img.shields.io/badge/Vite-0B0B0B?style=flat-square&logo=vite&logoColor=FFFFFF)
+![pnpm](https://img.shields.io/badge/pnpm-0B0B0B?style=flat-square&logo=pnpm&logoColor=FFFFFF)
+![npm](https://img.shields.io/badge/npm-0B0B0B?style=flat-square&logo=npm&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/Git-0B0B0B?style=flat-square&logo=git&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/GitHub-0B0B0B?style=flat-square&logo=github&logoColor=FFFFFF)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0B0B0B?style=flat-square&logo=githubactions&logoColor=FFFFFF)
+![Vercel](https://img.shields.io/badge/Vercel-0B0B0B?style=flat-square&logo=vercel&logoColor=FFFFFF)
+![ESLint](https://img.shields.io/badge/ESLint-0B0B0B?style=flat-square&logo=eslint&logoColor=FFFFFF)
+![Prettier](https://img.shields.io/badge/Prettier-0B0B0B?style=flat-square&logo=prettier&logoColor=FFFFFF)
+![Figma](https://img.shields.io/badge/Figma-0B0B0B?style=flat-square&logo=figma&logoColor=FFFFFF)
+
+## GitHub Stats
+
+<p align="center">
+  <img
+    src="https://helio-github-stats.vercel.app/api?username=art70x&custom_title=GitHub+Stats&theme=github_dark&hide_border=true&locale=en&border_radius=4.5&card_width=466&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&number_format=short"
+    alt="GitHub statistics"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://helio-github-stats.vercel.app/api/top-langs?username=art70x&layout=donut&stats_format=percentages&theme=dark&hide_border=true&border_radius=4.5&card_width=466&locale=en&custom_title=Most%20Used%20Languages&hide=nix&langs_count=4"
+    alt="Most used programming languages"
+  />
+</p>
+
+## Developer Quote
+
+<p align="center">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
+    alt="Random developer quote"
+  />
+</p>
+
+---
+
+<p align="center">
+  <sub>CREATE / IMPROVE / REPEAT</sub>
+</p>
